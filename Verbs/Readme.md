@@ -1,4 +1,4 @@
-<!-- Subjunctive Conjugations -->
+<h1>Spanish Verbs – Subjunctive Conjugations</h1>
 
 <details>
   <summary>Acelerar (to accelerate)</summary>
