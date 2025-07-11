@@ -25,7 +25,6 @@
     <tr><td>tú</td><td>-es</td><td>-as</td></tr>
     <tr><td>él/ella/usted</td><td>-e</td><td>-a</td></tr>
     <tr><td>nosotros/as</td><td>-emos</td><td>-amos</td></tr>
-    <tr><td>vosotros/as</td><td>-éis</td><td>-áis</td></tr>
     <tr><td>ellos/ellas/ustedes</td><td>-en</td><td>-an</td></tr>
   </tbody>
 </table>
