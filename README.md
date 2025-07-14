@@ -79,3 +79,57 @@
   <li><strong>Impersonal Expressions:</strong> es importante que, es posible que</li>
   <li><strong>Conjunctions:</strong> para que, a menos que, antes de que, con tal de que</li>
 </ul>
+
+<h2>5. Past Subjunctive (Imperfect Subjunctive) – Notes</h2>
+<p>The <strong>past subjunctive</strong> (also known as the imperfect subjunctive) is used to express doubt, emotion, desire, or hypothetical situations <strong>in the past</strong>.</p>
+
+<h3>When to Use the Past Subjunctive</h3>
+<ul>
+  <li>After verbs in the past or conditional tense that trigger the subjunctive</li>
+  <li>For hypothetical or contrary-to-fact situations ("if" clauses)</li>
+  <li>To make polite requests or wishes</li>
+</ul>
+
+<table>
+  <thead>
+    <tr><th>English</th><th>Spanish Example</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>If I were rich...</td><td>Si yo <strong>fuera</strong> rico...</td></tr>
+    <tr><td>I wanted you to come.</td><td>Quería que tú <strong>vinieras</strong>.</td></tr>
+    <tr><td>I'd like you to help.</td><td>Quisiera que me <strong>ayudaras</strong>.</td></tr>
+    <tr><td>I doubted he knew it.</td><td>Dudaba que él lo <strong>supiera</strong>.</td></tr>
+  </tbody>
+</table>
+
+<h2>6. Past Subjunctive Conjugation Rules</h2>
+<ol>
+  <li>Start with the 3rd person plural of the preterite: <em>hablaron, tuvieron, vivieron</em></li>
+  <li>Remove <code>-ron</code>: <em>habla-, tuvie-, vivie-</em></li>
+  <li>Add the following endings:</li>
+</ol>
+
+<table>
+  <thead>
+    <tr><th>Pronoun</th><th>Ending</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>yo</td><td>-ra</td></tr>
+    <tr><td>tú</td><td>-ras</td></tr>
+    <tr><td>él/ella/usted</td><td>-ra</td></tr>
+    <tr><td>nosotros/as</td><td>-ramos <em>(note: accent before "r")</em></td></tr>
+    <tr><td>vosotros/as</td><td>-rais</td></tr>
+    <tr><td>ellos/ellas/ustedes</td><td>-ran</td></tr>
+  </tbody>
+</table>
+
+<h3>Common Triggers</h3>
+<ul>
+  <li>Quería que…</li>
+  <li>Era importante que…</li>
+  <li>Si yo fuera…</li>
+  <li>Ojalá que…</li>
+  <li>Dudaba que…</li>
+  <li>Esperaba que…</li>
+  <li>Me gustaría que…</li>
+</ul>
