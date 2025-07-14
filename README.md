@@ -30,7 +30,6 @@
 </table>
 
 <h2>3. Present Subjunctive Irregular Conjugations</h2>
-<h2>Subjunctive – More Irregular Verbs</h2>
 <p>These verbs either have irregular stems, spelling changes, or special "yo" forms that carry over into the present subjunctive:</p>
 
 <table>
