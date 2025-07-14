@@ -80,6 +80,8 @@
   <li><strong>Conjunctions:</strong> para que, a menos que, antes de que, con tal de que</li>
 </ul>
 
+<hr>
+
 <h2>5. Past Subjunctive (Imperfect Subjunctive) – Notes</h2>
 <p>The <strong>past subjunctive</strong> (also known as the imperfect subjunctive) is used to express doubt, emotion, desire, or hypothetical situations <strong>in the past</strong>.</p>
 
