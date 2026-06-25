@@ -164,7 +164,7 @@
     <tr><td>tú</td><td>destaques</td></tr>
     <tr><td>él/ella/usted</td><td>destaque</td></tr>
     <tr><td>nosotros/as</td><td>destaquemos</td></tr>
-    <tr><td>ellos/ellas/ustedes</td><td> destaquen</td></tr>
+    <tr><td>ellos/ellas/ustedes</td><td>destaquen</td></tr>
   </table>
 </details>
 <details>
@@ -378,7 +378,7 @@
     <tr><td>tú</td><td>valores</td></tr>
     <tr><td>él/ella/usted</td><td>valore</td></tr>
     <tr><td>nosotros/as</td><td>valoremos</td></tr>
-    <tr><td>ellos/ellas/ustedes</td><td>valor</td></tr>
+    <tr><td>ellos/ellas/ustedes</td><td>valoren</td></tr>
   </table>
 </details>
 
